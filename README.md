@@ -1,6 +1,7 @@
 # powermockito
 This project is used to create unit test cases by mocking object using Powermockito. 
 The following are two dependencies need to be added to enable Powermockito
+
         <dependency>
             <groupId>org.powermock</groupId>
             <artifactId>powermock-module-junit4</artifactId>
